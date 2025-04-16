@@ -1,0 +1,15 @@
+com\system\rh\entities\Pessoa.class
+com\system\rh\services\PessoaService.class
+com\system\rh\resources\PessoaResource.class
+com\system\rh\SystemRH\SystemRhApplication.class
+com\system\rh\services\EnderecoService.class
+com\system\rh\repositories\EnderecoRepository.class
+com\system\rh\resources\UsuarioResource.class
+com\system\rh\repositories\UsuarioRepository.class
+com\system\rh\entities\Usuario.class
+com\system\rh\services\UsuarioService.class
+com\system\rh\repositories\PessoaRepository.class
+com\system\rh\entities\enums\TipoUsuario.class
+com\system\rh\resources\EnderecoResource.class
+com\system\rh\SystemRH\teste\TestConfig.class
+com\system\rh\entities\Endereco.class
